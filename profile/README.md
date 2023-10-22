@@ -2,6 +2,7 @@ Welcome to the Verge Github Repository!
 ====
 
 ```
+____  _______   ____________ 
 \   \/  /\   \ /   /  _____/ 
  \     /  \   Y   /   \  ___ 
  /     \   \     /\    \_\  \
