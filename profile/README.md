@@ -11,7 +11,7 @@ ____  _______   ____________
 ```
 
 Here you can find the official source code for the Verge blockchain (https://github.com/vergecurrency/verge), as well as other applications and software libraries in a variety of programming languages for implementing Verge into your project!<br><br>
-<p align="center">
+<p align="left">
   <b>Github Stars:</b> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vergecurrency"><br>
   <b>Follow XVG Socials:</b><br>
   <b>Twitter Account<b> <img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black"><br>
