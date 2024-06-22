@@ -1,13 +1,13 @@
-Welcome to the Verge Github Repository! 
+Welcome to the Verge Currency ($XVG) Github Repository! 
 ====
 
 ```
-____  _______   ____________ 
-\   \/  /\   \ /   /  _____/ 
- \     /  \   Y   /   \  ___ 
- /     \   \     /\    \_\  \
-/___/\  \   \___/  \______  /2024!
-      \_/XVG              \/ 
+____   _________________________  ___________________
+\   \ /   /\_   _____/\______   \/  _____/\_   _____/XVG
+ \   Y   /  |    __)_  |       _/   \  ___ |    __)_ 
+  \     /   |        \ |    |   \    \_\  \|        \
+   \___/   /_______  / |____|_  /\______  /_______  /2o24
+                   \/         \/        \/        \/ 
 ```
 
 Here you can find the official source code for the Verge blockchain (https://github.com/vergecurrency/verge), as well as other applications and software libraries in a variety of programming languages for implementing Verge into your project!<br><br>
