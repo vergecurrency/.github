@@ -14,7 +14,7 @@ Here you can find the official source code for the Verge blockchain (https://git
 <p align="left">
   <b>Github Stars:</b> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vergecurrency"><br><br>
   <b>Follow XVG Socials:</b><br><br>
- ====
+  ====
   <b>Twitter Account<b> <img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black"><br><br>
   <b>Discord Server</b> <img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br><br>
   <b>Youtube Subscribe!</b> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br><br>
