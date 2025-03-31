@@ -15,13 +15,13 @@ Here you can find the official source code for the Verge blockchain (https://git
   <b>Github Stars:</b> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vergecurrency"><br><br><br>
   <b>Follow XVG Socials: </b>
   <br>
-  <b>Twitter Account:</b> <a href="https://x.com/vergecurrency"> https://x.com/vergecurrency </a><img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black"><br>
-  <b>Discord Server:</b> <a href="https://discord.gg/vergecurrency"> https://discord.gg/vergecurrency </a><img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
-  <b>Youtube Subscribe!:</b> <a href="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ"> https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ </a><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
+  <b>Twitter Account:</b> <a href="https://x.com/vergecurrency" target="_blank"> https://x.com/vergecurrency </a><img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black" target="_blank"><br>
+  <b>Discord Server:</b> <a href="https://discord.gg/vergecurrency" target="_blank"> https://discord.gg/vergecurrency </a><img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
+  <b>Youtube Subscribe!:</b> <a href="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ" target="_blank"> https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ </a><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
   <b>Youtube channel views:</b> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
-  <b>Telegram:</b> <a href="https://t.me/officialxvg"> https://t.me/officialxvg </a><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)"><br>
+  <b>Telegram:</b> <a href="https://t.me/officialxvg" target="_blank"> https://t.me/officialxvg </a><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)"><br>
   <br><br>
   <b>Download the latest Verge Desktop Full Node/Wallets:</b><br>
-  <a href="https://github.com/vergecurrency/verge/releases/latest"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vergecurrency/verge/total?logo=GitHub"></a>
+  <a href="https://github.com/vergecurrency/verge/releases/latest" target="_blank"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vergecurrency/verge/total?logo=GitHub"></a>
 </p>
   
