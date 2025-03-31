@@ -19,6 +19,7 @@ Here you can find the official source code for the Verge blockchain (https://git
   <b>Discord Server</b> <img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
   <b>Youtube Subscribe!</b> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
   <b>Youtube channel views:</b> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
+  <b>Telegram:</b> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)"><br>
   <br><br>
   <b>Download the latest Verge Desktop Full Node/Wallets:</b><br>
   <a href="https://github.com/vergecurrency/verge/releases/latest"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vergecurrency/verge/total?logo=GitHub"></a>
