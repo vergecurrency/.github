@@ -15,8 +15,8 @@ Here you can find the official source code for the Verge blockchain (https://git
   <b>Github Stars:</b> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vergecurrency"><br><br><br>
   <b>Follow XVG Socials: </b>
   <br>
-  <b>Twitter Account<b> <img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black"><br>
-  <b>Discord Server</b> <img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
+  <b>Twitter Account</b> <a href="https://x.com/vergecurrency"> https://x.com/vergecurrency </a><img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black"><br>
+  <b>Discord Server</b> <a href="https://discord.gg/vergecurrency"> https://discord.gg/vergecurrency </a><img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
   <b>Youtube Subscribe!</b> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
   <b>Youtube channel views:</b> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
   <b>Telegram:</b> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)"><br>
