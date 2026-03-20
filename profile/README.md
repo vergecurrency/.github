@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Welcome to the Verge Currency ($XVG) GitHub Repository</h1>
-
+🚀 Welcome to the Verge Currency ($XVG) GitHub Repository
+===
 ```
 ____   _________________________  ___________________    .
 \   \ /   /\_   _____/\______   \/  _____/\_   _____/ .    .
