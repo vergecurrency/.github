@@ -1,27 +1,71 @@
-<b>Welcome to the Verge Currency ($XVG) Github Repository! </b>
-====
+<h1 align="center">🚀 Welcome to the Verge Currency ($XVG) GitHub Repository</h1>
 
-```
+<p align="center">
+<code>
 ____   _________________________  ___________________    .
 \   \ /   /\_   _____/\______   \/  _____/\_   _____/ .    .
 .\   Y   /  |    __)_ .|       _/   \  ___ |    __)_   .      .
   \     / . |        \ |    |   \    \_\  \|        \ .    .
-  .\___/ . /_______  / |____|_  /\______  /_______  /2o25!
+  .\___/ . /_______  / |____|_  /\______  /_______  /2o26!
 .             .    \/  .   XVG\/        \/   .    \/   .
-```
-Here you can find the official source code for the Verge blockchain (https://github.com/vergecurrency/verge), as well as other applications and software libraries in a variety of programming languages for implementing Verge into your project!<br><br>
-<p align="left">
- 
-  <b>Follow XVG Socials: </b>
-  <br>
-  <b>Twitter Account:</b> <a href="https://x.com/vergecurrency" target="_blank"> https://x.com/vergecurrency </a><img alt="X (formerly Twitter) Follow VergeCurrency!" src="https://img.shields.io/twitter/follow/vergecurrency?logo=twitter&logoColor=teal&labelColor=black&color=black" target="_blank"><br>
-  <b>Discord Server:</b> <a href="https://discord.gg/vergecurrency" target="_blank"> https://discord.gg/vergecurrency </a><img alt="Discord" src="https://img.shields.io/discord/325024453065179137?logo=v&logoColor=teal"><br>
-  <b>Youtube Subscribe!:</b> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
-  <b>Youtube channel views:</b> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ"><br>
-  <b>Telegram:</b> <a href="https://t.me/officialxvg" target="_blank"> https://t.me/officialxvg </a><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)"><br>
-   <b>Github Stars:</b> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vergecurrency"><br>
-  <br><br>
-  <b>Download the latest Verge Desktop Full Node/Wallets:</b><br>
-  <a href="https://github.com/vergecurrency/verge/releases/latest" target="_blank"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vergecurrency/verge/total?logo=GitHub"></a>
+</code>
 </p>
-  
+
+---
+
+<p align="center">
+Official source code for the Verge blockchain and ecosystem tools.<br>
+Build, integrate, and contribute to Verge across multiple platforms and languages.
+</p>
+
+---
+
+<h2 align="center">🌐 Socials & Community</h2>
+
+<p align="center">
+
+<a href="https://x.com/vergecurrency" target="_blank">
+<img src="https://img.shields.io/twitter/follow/vergecurrency?style=for-the-badge&logo=twitter&logoColor=white&color=000000&label=Follow%20on%20X">
+</a>
+
+<a href="https://discord.gg/vergecurrency" target="_blank">
+<img src="https://img.shields.io/discord/325024453065179137?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&label=Discord">
+</a>
+
+<a href="https://t.me/officialxvg" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<h2 align="center">📊 Community Stats</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ?style=for-the-badge&label=YouTube%20Subscribers">
+<img src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ?style=for-the-badge&label=YouTube%20Views">
+<img src="https://img.shields.io/github/stars/vergecurrency?style=for-the-badge&label=GitHub%20Stars">
+
+</p>
+
+---
+
+<h2 align="center">⬇️ Downloads</h2>
+
+<p align="center">
+
+<a href="https://github.com/vergecurrency/verge/releases/latest" target="_blank">
+<img src="https://img.shields.io/github/downloads/vergecurrency/verge/total?style=for-the-badge&logo=github&label=Download%20Latest%20Wallet">
+</a>
+
+</p>
+
+---
+
+<h2 align="center">📦 Repository</h2>
+
+<p align="center">
+🔗 <a href="https://github.com/vergecurrency/verge" target="_blank">View Verge Core Repository</a>
+</p>
