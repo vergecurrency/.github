@@ -146,13 +146,68 @@
       <line x1="1808" y1="350" x2="850" y2="266" class="grid-v"/>
     </g>
 
+    <!-- Perspective grid streams toward the viewer indefinitely (SVG-native, no scripts). -->
     <g>
-      <line x1="0" y1="271.42" x2="1120" y2="271.42" class="grid-h"/>
-      <line x1="0" y1="280.87" x2="1120" y2="280.87" class="grid-h"/>
-      <line x1="0" y1="294.08" x2="1120" y2="294.08" class="grid-h"/>
-      <line x1="0" y1="310.54" x2="1120" y2="310.54" class="grid-h"/>
-      <line x1="0" y1="329.92" x2="1120" y2="329.92" class="grid-h"/>
-      <line x1="0" y1="352" x2="1120" y2="352" class="grid-h"/>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-0.00s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-0.00s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-0.00s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-0.34s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-0.34s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-0.34s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-0.68s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-0.68s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-0.68s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-1.02s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-1.02s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-1.02s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-1.36s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-1.36s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-1.36s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-1.70s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-1.70s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-1.70s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-2.04s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-2.04s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-2.04s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-2.38s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-2.38s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-2.38s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-2.72s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-2.72s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-2.72s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-3.06s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-3.06s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-3.06s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-3.40s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-3.40s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-3.40s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="267" x2="1120" y2="267" stroke="#05D9E8" stroke-width="1.2" opacity="0">
+        <animate attributeName="y1" values="267;350" dur="4.08s" begin="-3.74s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="267;350" dur="4.08s" begin="-3.74s" calcMode="spline" keySplines=".55 0 1 1" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.12;.30;.38;0" keyTimes="0;.08;.35;.85;1" dur="4.08s" begin="-3.74s" repeatCount="indefinite"/>
+      </line>
     </g>
 
     <g>
