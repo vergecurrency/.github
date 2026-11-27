@@ -41,8 +41,8 @@
     .corner-b { animation: cornerPulseB 4.8s ease-in-out infinite; }
 
     @keyframes sunPulse {
-      0%, 100% { opacity: .92; transform: scale(1); }
-      50% { opacity: 1; transform: scale(1.03); }
+      0%, 100% { opacity: .70; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.09); }
     }
 
     @keyframes twinkleA {
@@ -94,6 +94,13 @@
     @keyframes cornerPulseB {
       0%, 100% { opacity: .9; }
       50% { opacity: .65; }
+    }
+    .neon-scanner { animation: scanAcross 3.5s linear infinite; }
+    @keyframes scanAcross {
+      0% { transform: translateX(0px); opacity: 0; }
+      8% { opacity: 1; }
+      88% { opacity: 1; }
+      100% { transform: translateX(410px); opacity: 0; }
     }
   </style>
 
@@ -173,6 +180,11 @@
     <text x="49" y="176" fill="#F5F3FF" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="111" letter-spacing="11" class="headline">VERGE</text>
 
     <rect x="50" y="196" width="420" height="3" fill="url(#neon)" class="accent-line"/>
+    <!-- Traveling light makes the animation visible, rather than only subtle opacity changes -->
+    <g class="neon-scanner">
+      <rect x="50" y="193" width="10" height="9" rx="4" fill="#FFFFFF" opacity=".85"/>
+      <rect x="53" y="195" width="5" height="5" rx="2" fill="#05D9E8"/>
+    </g>
 
     <text x="52" y="240" fill="#FF2A6D" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="19" letter-spacing="1.1" class="tagline">DECENTRALIZED. OPEN SOURCE. BUILT TO EVOLVE.</text>
 
