@@ -56,12 +56,6 @@
 
 <p align="center"><a href="https://github.com/vergecurrency/verge/stargazers">Stars</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/forks">Forks</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/graphs/contributors">Contributors</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/releases">Wallet releases</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/actions">CI builds</a></p>
 
-<sub>Statistics are generated into this repository by a scheduled GitHub Action rather than loaded from Shields.io at page view time. Initial placeholders appear until the workflow is run.</sub>
-
-## community
-
-<p align="center"><a href="https://www.youtube.com/channel/UCv59uw_WhHB2VxbBs0LPeeQ">YouTube</a> &nbsp;·&nbsp; <a href="https://x.com/vergecurrency">X</a> &nbsp;·&nbsp; <a href="https://discord.gg/vergecurrency">Discord</a> &nbsp;·&nbsp; <a href="https://t.me/officialxvg">Telegram</a></p>
-
 ## build with verge
 
 From full-node software and lightweight wallets to explorers, client libraries and infrastructure, Verge is developed openly by its community. Explore the repositories, report issues and submit pull requests.
