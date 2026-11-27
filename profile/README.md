@@ -45,6 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/vergecurrency/verge-ruby-client"><img src="assets/project-verge-ruby-client.svg" alt="Verge Ruby client" width="49%"></a>
+<a href="https://github.com/vergecurrency/Docker-Verge-Daemon"><img src="assets/project-docker-verge-daemon.svg" alt="Docker Verge Daemon" width="49%"></a>
 </p>
 
 ## project activity
