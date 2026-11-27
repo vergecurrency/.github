@@ -1,6 +1,8 @@
-🚀 Welcome to the Verge Currency ($XVG) GitHub Repository
-===
-```
+<div align="center">
+
+#  V  E  R  G  E
+
+```text
   ____   _________________________  ___________________    .
 . \   \ /   /\_   _____/\______   \/  _____/\_   _____/ .    .
   .\   Y   /  |    __)_ .|       _/   \  ___ |    __)_   .      .
@@ -9,61 +11,108 @@
   .     '       .    \/  .   XVG\/        \/   .    \/   .
 ```
 
----
+**DECENTRALIZED / OPEN SOURCE / COMMUNITY DRIVEN**
 
-<p align="center">
-Official source code for the Verge blockchain and ecosystem tools.<br>
-Build, integrate, and contribute to Verge across multiple platforms and languages.
-</p>
+The official GitHub home of Verge Currency ($XVG).
 
----
+Building accessible, privacy-focused blockchain technology  
+and decentralized financial infrastructure since 2014.
 
-<h2 align="center">🌐 Socials & Community</h2>
+![Established](https://img.shields.io/badge/ESTABLISHED-2014-FF2A6D?style=flat-square&labelColor=0D0221)
+![Open Source](https://img.shields.io/badge/OPEN-SOURCE-05D9E8?style=flat-square&labelColor=0D0221)
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-XVG-9D4EDD?style=flat-square&labelColor=0D0221)
 
-<p align="center">
+<br>
 
-<a href="https://x.com/vergecurrency" target="_blank">
-<img src="https://img.shields.io/twitter/follow/vergecurrency?style=for-the-badge&logo=twitter&logoColor=white&color=000000&label=Follow%20on%20X">
-</a>
+[![Website](https://img.shields.io/badge/Official_Website-05D9E8?style=for-the-badge&logo=verge&logoColor=0D0221)](https://vergecurrency.com)
+[![Explorer](https://img.shields.io/badge/Block_Explorer-9D4EDD?style=for-the-badge&logo=blockchain.com&logoColor=white)](https://mempool.vergecurrency.com)
+[![Tokens](https://img.shields.io/badge/Multichain_Ecosystem-FF2A6D?style=for-the-badge&logo=ethereum&logoColor=white)](https://xvgtokens.com)
 
-<a href="https://discord.gg/vergecurrency" target="_blank">
-<img src="https://img.shields.io/discord/325024453065179137?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&label=Discord">
-</a>
-
-<a href="https://t.me/officialxvg" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</p>
+</div>
 
 ---
 
-<h2 align="center">📊 Community Stats</h2>
+## 01 / Overview
 
-<p align="center">
+Verge Currency is an open-source, decentralized cryptocurrency
+focused on privacy, accessibility, and everyday usability.
 
-<img src="https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ?style=for-the-badge&label=YouTube%20Subscribers">
-<img src="https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ?style=for-the-badge&label=YouTube%20Views">
-<img src="https://img.shields.io/github/stars/vergecurrency?style=for-the-badge&label=GitHub%20Stars">
+Our repositories provide the source code, development tools,
+wallets, libraries, and infrastructure powering the Verge ecosystem.
 
-</p>
+Developers are welcome to build, integrate, experiment, and
+contribute across multiple platforms and programming languages.
+
+## 02 / Community
+
+<div align="center">
+
+[![X](https://img.shields.io/twitter/follow/vergecurrency?style=for-the-badge&logo=x&logoColor=white&color=FF2A6D&labelColor=0D0221&label=Follow%20on%20X)](https://x.com/vergecurrency)
+[![Discord](https://img.shields.io/badge/Join_Discord-9D4EDD?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vergecurrency)
+[![Telegram](https://img.shields.io/badge/Join_Telegram-05D9E8?style=for-the-badge&logo=telegram&logoColor=0D0221)](https://t.me/officialxvg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF9E00?style=for-the-badge&logo=youtube&logoColor=0D0221)](https://www.youtube.com/channel/UCv59uw_WhHB2VxbBs0LPeeQ)
+
+<br>
+
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCv59uw_WhHB2VxbBs0LPeeQ?style=flat-square&logo=youtube&logoColor=FF2A6D&label=Subscribers&color=FF2A6D&labelColor=0D0221)
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCv59uw_WhHB2VxbBs0LPeeQ?style=flat-square&logo=youtube&logoColor=9D4EDD&label=Views&color=9D4EDD&labelColor=0D0221)
+![GitHub Stars](https://img.shields.io/github/stars/vergecurrency?style=flat-square&logo=github&label=Stars&color=05D9E8&labelColor=0D0221)
+![GitHub Followers](https://img.shields.io/github/followers/vergecurrency?style=flat-square&logo=github&label=Followers&color=FF9E00&labelColor=0D0221)
+
+</div>
+
+## 03 / Verge Core
+
+The foundation of the Verge blockchain. Explore the source code,
+run a full node, build from source, or download the latest release.
+
+<div align="center">
+
+[![Download Wallet](https://img.shields.io/badge/Download_Latest_Wallet-FF2A6D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vergecurrency/verge/releases/latest)
+[![Source Code](https://img.shields.io/badge/View_Source_Code-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vergecurrency/verge)
+
+<br>
+
+![Latest Release](https://img.shields.io/github/v/release/vergecurrency/verge?style=flat-square&label=Latest%20Release&color=FF2A6D&labelColor=0D0221)
+![Downloads](https://img.shields.io/github/downloads/vergecurrency/verge/total?style=flat-square&label=Total%20Downloads&color=05D9E8&labelColor=0D0221)
+![Last Commit](https://img.shields.io/github/last-commit/vergecurrency/verge?style=flat-square&label=Last%20Commit&color=9D4EDD&labelColor=0D0221)
+![Contributors](https://img.shields.io/github/contributors/vergecurrency/verge?style=flat-square&label=Contributors&color=FF9E00&labelColor=0D0221)
+
+</div>
+
+## 04 / Ecosystem
+
+| Resource | Description |
+| :--- | :--- |
+| [Verge Currency](https://vergecurrency.com) | Official website and project information |
+| [Verge Core](https://github.com/vergecurrency/verge) | Blockchain protocol and full-node software |
+| [Verge Explorer](https://mempool.vergecurrency.com) | Explore blocks, transactions, and network activity |
+| [XVG Tokens](https://xvgtokens.com) | Explore the Verge multichain token ecosystem |
+| [GitHub Repositories](https://github.com/orgs/vergecurrency/repositories) | Wallets, libraries, tools, and ecosystem projects |
+
+## 05 / Contributing
+
+Verge is built by an international community of open-source
+developers and contributors.
+
+Whether you are developing software, improving documentation,
+reporting bugs, testing releases, or building new integrations,
+your contributions are welcome.
 
 ---
 
-<h2 align="center">⬇️ Downloads</h2>
+<div align="center">
 
-<p align="center">
+![Verge](https://img.shields.io/badge/V_E_R_G_E-XVG-FF2A6D?style=for-the-badge&labelColor=0D0221)
 
-<a href="https://github.com/vergecurrency/verge/releases/latest" target="_blank">
-<img src="https://img.shields.io/github/downloads/vergecurrency/verge/total?style=for-the-badge&logo=github&label=Download%20Latest%20Wallet">
-</a>
+**INDEPENDENT / DECENTRALIZED / OPEN SOURCE**
 
-</p>
+Building the future since 2014.
 
----
+[Website](https://vergecurrency.com) ·
+[GitHub](https://github.com/vergecurrency) ·
+[X](https://x.com/vergecurrency) ·
+[Discord](https://discord.gg/vergecurrency) ·
+[Telegram](https://t.me/officialxvg)
 
-<h2 align="center">📦 Repository</h2>
-
-<p align="center">
-🔗 <a href="https://github.com/vergecurrency/verge" target="_blank">View Verge Core Repository</a>
-</p>
+</div>
