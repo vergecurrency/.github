@@ -45,7 +45,9 @@
 
 ## project activity
 
-<p align="center"><img src="assets/core-stats.svg" alt="Verge Core stars, forks, watchers and download totals" width="100%"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/vergecurrency/.github/main/profile/assets/core-stats.svg" alt="Verge Core statistics" width="100%">
+</p>
 
 <p align="center"><a href="https://github.com/vergecurrency/verge/stargazers">Stars</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/forks">Forks</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/graphs/contributors">Contributors</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/releases">Wallet releases</a> &nbsp;·&nbsp; <a href="https://github.com/vergecurrency/verge/actions">CI builds</a></p>
 
