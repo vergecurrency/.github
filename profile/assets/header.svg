@@ -1,11 +1,4 @@
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1120"
-     height="350"
-     viewBox="0 0 1120 350"
-     role="img"
-     aria-label="Verge Currency — Decentralized, Open Source, Built to Evolve">
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" role="img" aria-label="Verge Currency — Decentralized, Open Source, Built to Evolve">
   <title>Verge Currency</title>
 
   <defs>
@@ -31,150 +24,165 @@
     </clipPath>
   </defs>
 
+  <style>
+    .bg-frame { fill: url(#ground); }
+    .sun { animation: sunPulse 6s ease-in-out infinite; transform-origin: 850px 152px; }
+    .stripe { fill: #0D0221; opacity: .88; }
+    .grid-v { stroke: #9D4EDD; opacity: .35; stroke-width: 1; }
+    .grid-h { stroke: #05D9E8; opacity: .14; stroke-width: 1; animation: gridGlow 5s ease-in-out infinite; }
+    .starA { animation: twinkleA 4.5s ease-in-out infinite; }
+    .starB { animation: twinkleB 6.5s ease-in-out infinite; }
+    .starC { animation: twinkleC 5.4s ease-in-out infinite; }
+    .accent-line { animation: accentShift 4.2s ease-in-out infinite; }
+    .headline { animation: logoGlow 5s ease-in-out infinite; }
+    .tagline { animation: tagGlow 5.8s ease-in-out infinite; }
+    .panel-border { animation: borderGlow 4.8s ease-in-out infinite; }
+    .corner-a { animation: cornerPulseA 4.2s ease-in-out infinite; }
+    .corner-b { animation: cornerPulseB 4.8s ease-in-out infinite; }
+
+    @keyframes sunPulse {
+      0%, 100% { opacity: .92; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.03); }
+    }
+
+    @keyframes twinkleA {
+      0%, 100% { opacity: .22; }
+      50% { opacity: .65; }
+    }
+
+    @keyframes twinkleB {
+      0%, 100% { opacity: .18; }
+      35% { opacity: .58; }
+      70% { opacity: .32; }
+    }
+
+    @keyframes twinkleC {
+      0%, 100% { opacity: .28; }
+      50% { opacity: .75; }
+    }
+
+    @keyframes accentShift {
+      0%, 100% { opacity: .9; filter: drop-shadow(0 0 1px #05D9E8); }
+      50% { opacity: 1; filter: drop-shadow(0 0 6px #FF2A6D); }
+    }
+
+    @keyframes logoGlow {
+      0%, 100% { filter: drop-shadow(0 0 0px rgba(245,243,255,0)); }
+      50% { filter: drop-shadow(0 0 8px rgba(245,243,255,.14)); }
+    }
+
+    @keyframes tagGlow {
+      0%, 100% { opacity: 1; }
+      50% { opacity: .92; filter: drop-shadow(0 0 6px rgba(255,42,109,.18)); }
+    }
+
+    @keyframes gridGlow {
+      0%, 100% { opacity: .10; }
+      50% { opacity: .18; }
+    }
+
+    @keyframes borderGlow {
+      0%, 100% { stroke-opacity: .45; }
+      50% { stroke-opacity: .75; }
+    }
+
+    @keyframes cornerPulseA {
+      0%, 100% { opacity: .9; }
+      50% { opacity: .65; }
+    }
+
+    @keyframes cornerPulseB {
+      0%, 100% { opacity: .9; }
+      50% { opacity: .65; }
+    }
+  </style>
+
   <g clip-path="url(#frame)">
+    <rect width="1120" height="350" class="bg-frame"/>
 
-    <!-- Background -->
-    <rect width="1120" height="350" fill="url(#ground)"/>
+    <circle cx="850" cy="152" r="112" fill="url(#sun)" class="sun"/>
 
-    <!-- Retrowave sunset -->
-    <circle cx="850" cy="152" r="112"
-            fill="url(#sun)" opacity=".95"/>
+    <rect x="727" y="178" width="246" height="3" class="stripe"/>
+    <rect x="727" y="195" width="246" height="5" class="stripe"/>
+    <rect x="727" y="215" width="246" height="7" class="stripe"/>
+    <rect x="727" y="235" width="246" height="10" class="stripe"/>
+    <rect x="727" y="257" width="246" height="13" class="stripe"/>
 
-    <g fill="#0D0221" opacity=".88">
-      <rect x="727" y="178" width="246" height="3"/>
-      <rect x="727" y="195" width="246" height="5"/>
-      <rect x="727" y="215" width="246" height="7"/>
-      <rect x="727" y="235" width="246" height="10"/>
-      <rect x="727" y="257" width="246" height="13"/>
+    <rect x="0" y="267" width="1120" height="83" fill="#0D0221"/>
+
+    <g>
+      <line x1="92" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="170" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="248" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="326" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="404" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="482" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="560" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="638" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="716" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="794" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="872" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="950" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1028" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1106" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1184" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1262" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1340" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1418" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1496" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1574" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1652" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1730" y1="350" x2="850" y2="266" class="grid-v"/>
+      <line x1="1808" y1="350" x2="850" y2="266" class="grid-v"/>
     </g>
 
-    <!-- Horizon -->
-    <rect x="0" y="267" width="1120" height="83"
-          fill="#0D0221"/>
-
-    <!-- Perspective grid -->
-    <g stroke="#9D4EDD" opacity=".35" stroke-width="1">
-      <line x1="92" y1="350" x2="850" y2="266"/>
-      <line x1="170" y1="350" x2="850" y2="266"/>
-      <line x1="248" y1="350" x2="850" y2="266"/>
-      <line x1="326" y1="350" x2="850" y2="266"/>
-      <line x1="404" y1="350" x2="850" y2="266"/>
-      <line x1="482" y1="350" x2="850" y2="266"/>
-      <line x1="560" y1="350" x2="850" y2="266"/>
-      <line x1="638" y1="350" x2="850" y2="266"/>
-      <line x1="716" y1="350" x2="850" y2="266"/>
-      <line x1="794" y1="350" x2="850" y2="266"/>
-      <line x1="872" y1="350" x2="850" y2="266"/>
-      <line x1="950" y1="350" x2="850" y2="266"/>
-      <line x1="1028" y1="350" x2="850" y2="266"/>
-      <line x1="1106" y1="350" x2="850" y2="266"/>
-      <line x1="1184" y1="350" x2="850" y2="266"/>
-      <line x1="1262" y1="350" x2="850" y2="266"/>
-      <line x1="1340" y1="350" x2="850" y2="266"/>
-      <line x1="1418" y1="350" x2="850" y2="266"/>
-      <line x1="1496" y1="350" x2="850" y2="266"/>
-      <line x1="1574" y1="350" x2="850" y2="266"/>
-      <line x1="1652" y1="350" x2="850" y2="266"/>
-      <line x1="1730" y1="350" x2="850" y2="266"/>
-      <line x1="1808" y1="350" x2="850" y2="266"/>
+    <g>
+      <line x1="0" y1="271.42" x2="1120" y2="271.42" class="grid-h"/>
+      <line x1="0" y1="280.87" x2="1120" y2="280.87" class="grid-h"/>
+      <line x1="0" y1="294.08" x2="1120" y2="294.08" class="grid-h"/>
+      <line x1="0" y1="310.54" x2="1120" y2="310.54" class="grid-h"/>
+      <line x1="0" y1="329.92" x2="1120" y2="329.92" class="grid-h"/>
+      <line x1="0" y1="352" x2="1120" y2="352" class="grid-h"/>
     </g>
 
-    <!-- Horizontal grid -->
-    <g stroke="#05D9E8" opacity=".14" stroke-width="1">
-      <line x1="0" y1="271.42" x2="1120" y2="271.42"/>
-      <line x1="0" y1="280.87" x2="1120" y2="280.87"/>
-      <line x1="0" y1="294.08" x2="1120" y2="294.08"/>
-      <line x1="0" y1="310.54" x2="1120" y2="310.54"/>
-      <line x1="0" y1="329.92" x2="1120" y2="329.92"/>
-      <line x1="0" y1="352" x2="1120" y2="352"/>
+    <g>
+      <circle cx="33" cy="19" r="1.7" fill="#FF2A6D" class="starA"/>
+      <circle cx="190" cy="90" r="1" fill="#05D9E8" class="starB"/>
+      <circle cx="347" cy="161" r="1" fill="#FF2A6D" class="starC"/>
+      <circle cx="504" cy="7" r="1.7" fill="#05D9E8" class="starA"/>
+      <circle cx="661" cy="78" r="1" fill="#FF2A6D" class="starB"/>
+      <circle cx="818" cy="149" r="1" fill="#05D9E8" class="starC"/>
+      <circle cx="975" cy="220" r="1.7" fill="#FF2A6D" class="starA"/>
+      <circle cx="12" cy="66" r="1" fill="#05D9E8" class="starB"/>
+      <circle cx="169" cy="137" r="1" fill="#FF2A6D" class="starC"/>
+      <circle cx="326" cy="208" r="1.7" fill="#05D9E8" class="starA"/>
+      <circle cx="483" cy="54" r="1" fill="#FF2A6D" class="starB"/>
+      <circle cx="640" cy="125" r="1" fill="#05D9E8" class="starC"/>
+      <circle cx="797" cy="196" r="1.7" fill="#FF2A6D" class="starA"/>
+      <circle cx="954" cy="42" r="1" fill="#05D9E8" class="starB"/>
+      <circle cx="1111" cy="113" r="1" fill="#FF2A6D" class="starC"/>
+      <circle cx="148" cy="184" r="1.7" fill="#05D9E8" class="starA"/>
+      <circle cx="305" cy="30" r="1" fill="#FF2A6D" class="starB"/>
+      <circle cx="462" cy="101" r="1" fill="#05D9E8" class="starC"/>
+      <circle cx="619" cy="172" r="1.7" fill="#FF2A6D" class="starA"/>
+      <circle cx="776" cy="18" r="1" fill="#05D9E8" class="starB"/>
     </g>
 
-    <!-- Neon starfield -->
-    <g opacity=".45">
-      <circle cx="33" cy="19" r="1.7" fill="#FF2A6D"/>
-      <circle cx="190" cy="90" r="1" fill="#05D9E8"/>
-      <circle cx="347" cy="161" r="1" fill="#FF2A6D"/>
-      <circle cx="504" cy="7" r="1.7" fill="#05D9E8"/>
-      <circle cx="661" cy="78" r="1" fill="#FF2A6D"/>
-      <circle cx="818" cy="149" r="1" fill="#05D9E8"/>
-      <circle cx="975" cy="220" r="1.7" fill="#FF2A6D"/>
-      <circle cx="12" cy="66" r="1" fill="#05D9E8"/>
-      <circle cx="169" cy="137" r="1" fill="#FF2A6D"/>
-      <circle cx="326" cy="208" r="1.7" fill="#05D9E8"/>
-      <circle cx="483" cy="54" r="1" fill="#FF2A6D"/>
-      <circle cx="640" cy="125" r="1" fill="#05D9E8"/>
-      <circle cx="797" cy="196" r="1.7" fill="#FF2A6D"/>
-      <circle cx="954" cy="42" r="1" fill="#05D9E8"/>
-      <circle cx="1111" cy="113" r="1" fill="#FF2A6D"/>
-      <circle cx="148" cy="184" r="1.7" fill="#05D9E8"/>
-      <circle cx="305" cy="30" r="1" fill="#FF2A6D"/>
-      <circle cx="462" cy="101" r="1" fill="#05D9E8"/>
-      <circle cx="619" cy="172" r="1.7" fill="#FF2A6D"/>
-      <circle cx="776" cy="18" r="1" fill="#05D9E8"/>
-    </g>
+    <text x="52" y="58" fill="#05D9E8" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="16" letter-spacing="2">VERGE CURRENCY / OFFICIAL GITHUB</text>
 
-    <!-- Top identification -->
-    <text x="52" y="58"
-          fill="#05D9E8"
-          font-family="Inter,Arial,sans-serif"
-          font-weight="700"
-          font-size="16"
-          letter-spacing="2">VERGE CURRENCY / OFFICIAL GITHUB</text>
+    <text x="49" y="176" fill="#F5F3FF" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="111" letter-spacing="11" class="headline">VERGE</text>
 
-    <!-- Main wordmark -->
-    <text x="49" y="176"
-          fill="#F5F3FF"
-          font-family="Inter,Arial,sans-serif"
-          font-weight="800"
-          font-size="111"
-          letter-spacing="11">VERGE</text>
+    <rect x="50" y="196" width="420" height="3" fill="url(#neon)" class="accent-line"/>
 
-    <!-- Neon accent -->
-    <rect x="50" y="196"
-          width="420" height="3"
-          fill="url(#neon)"/>
+    <text x="52" y="240" fill="#FF2A6D" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="19" letter-spacing="1.1" class="tagline">DECENTRALIZED. OPEN SOURCE. BUILT TO EVOLVE.</text>
 
-    <!-- Main slogan -->
-    <text x="52" y="240"
-          fill="#FF2A6D"
-          font-family="Inter,Arial,sans-serif"
-          font-weight="700"
-          font-size="19"
-          letter-spacing="1.1">DECENTRALIZED. OPEN SOURCE. BUILT TO EVOLVE.</text>
+    <text x="52" y="279" fill="#ABA5C9" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="14" letter-spacing="2">EST. 2014 / XVG / COMMUNITY DRIVEN</text>
 
-    <!-- Project identity -->
-    <text x="52" y="279"
-          fill="#ABA5C9"
-          font-family="Inter,Arial,sans-serif"
-          font-weight="600"
-          font-size="14"
-          letter-spacing="2">EST. 2014 / XVG / COMMUNITY DRIVEN</text>
+    <text x="1073" y="313" fill="#05D9E8" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="12" letter-spacing="1" text-anchor="end">VERGE / 2026</text>
 
-    <!-- Bottom-right signature -->
-    <text x="1073" y="313"
-          fill="#05D9E8"
-          font-family="Inter,Arial,sans-serif"
-          font-weight="600"
-          font-size="12"
-          letter-spacing="1"
-          text-anchor="end">VERGE / 2026</text>
+    <rect x="1" y="1" width="1118" height="348" rx="17" fill="none" stroke="#9D4EDD" stroke-opacity=".55" class="panel-border"/>
 
-    <!-- Outer border -->
-    <rect x="1" y="1"
-          width="1118" height="348"
-          rx="17"
-          fill="none"
-          stroke="#9D4EDD"
-          stroke-opacity=".55"/>
-
-    <!-- Corner accents -->
-    <path d="M 21 1 H 240"
-          stroke="#FF2A6D"
-          stroke-width="3"/>
-
-    <path d="M 910 349 H 1100"
-          stroke="#05D9E8"
-          stroke-width="3"/>
-
+    <path d="M 21 1 H 240" stroke="#FF2A6D" stroke-width="3" class="corner-a"/>
+    <path d="M 910 349 H 1100" stroke="#05D9E8" stroke-width="3" class="corner-b"/>
   </g>
 </svg>
