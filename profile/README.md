@@ -43,6 +43,10 @@
 <a href="https://github.com/vergecurrency/verge-python3"><img src="assets/project-verge-python3.svg" alt="Python Verge client" width="49%"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/vergecurrency/verge-ruby-client"><img src="assets/project-verge-ruby-client.svg" alt="Verge Ruby client" width="49%"></a>
+</p>
+
 ## project activity
 
 <p align="center">
