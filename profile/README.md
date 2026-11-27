@@ -106,3 +106,17 @@ Building since 2014.
 <a href="https://discord.gg/vergecurrency">Discord</a> |
 <a href="https://t.me/officialxvg">Telegram</a>
 </p>
+
+
+## Badge Test
+
+[![Website](https://img.shields.io/badge/Website-05D9E8.svg)](https://vergecurrency.com)
+
+[![Discord](https://img.shields.io/badge/Discord-9D4EDD.svg)](https://discord.gg/vergecurrency)
+
+![Stars](https://img.shields.io/github/stars/vergecurrency/verge.svg)
+
+![Watchers](https://img.shields.io/github/watchers/vergecurrency/verge.svg)
+
+![Forks](https://img.shields.io/github/forks/vergecurrency/verge.svg)
+
